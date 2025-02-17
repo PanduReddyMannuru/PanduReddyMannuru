@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## Skills
 
-- **Programming Languages**: c,Pyton
+- **Programming Languages**: C, Pyton
 - **Frameworks and Libraries**: React and Django
 - **Tools and Technologies**: Git
 
