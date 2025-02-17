@@ -29,7 +29,7 @@ Feel free to reach out to me via:
 
 - **Email**: pandureddymannuru@gmail.com
 - **LinkedIn**: www.linkedin.com/in/pandureddymannuru
-- **Twitter**: www.x.com/Pandu_reddy_
+- **Twitter**: www.x.com/Pandu_Reddy1
 
 ## GitHub Stats
 
