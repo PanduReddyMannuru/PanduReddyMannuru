@@ -35,14 +35,6 @@ Feel free to reach out to me via:
 
 ![PanduReddyMannuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanduReddyMannuru&show_icons=true&theme=radical)
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post](Link to Blog Post)
-- [Title of Blog Post](Link to Blog Post)
-- [Title of Blog Post](Link to Blog Post)
-<!-- BLOG-POST-LIST:END -->
-
 ## Support Me
 
 If you like my work, consider buying me a coffee! 
