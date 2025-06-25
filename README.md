@@ -1,4 +1,4 @@
-# Hi there, I'm PanduReddyMannuru! 👋
+# Hi there, I'm Pandu Reddy! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
 
