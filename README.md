@@ -1,44 +1,81 @@
-# Hi there, I'm Pandu Reddy! 👋
+<h1 align="center">Hi there 👋, I'm Pandu Reddy Mannuru</h1>
+<p align="center">A passionate developer exploring the world of AI, ML & Web Development</p>
 
-Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-- **Name**: Pandu Reddy Mannuru
-- **Location**: Kadapa, AndhraPradesh
-- **Education**: Pursuing in Bachelor of Technology in CSE-AI&ML
-- **Interests**: Eager to learn New.
+🎓 I'm currently pursuing a **B.Tech in Computer Science Engineering (AI & ML)**  
+📍 Based in **Kadapa, Andhra Pradesh, India**  
+💡 I love solving problems, building cool projects, and learning emerging technologies  
+🚀 Currently working on improving my skills in **AI, NLP, and Full-Stack Web Development**
 
-## Skills
+---
 
-- **Programming Languages**: C, Pyton
-- **Frameworks and Libraries**: React and Django
-- **Tools and Technologies**: Git
+## 🛠️ Tech Stack
 
-## Projects
+<div align="center">
 
-Here are a few projects I've worked on:
+| Language | Frameworks & Libraries | Tools |
+| -------- | ---------------------- | ----- |
+| C, Python | React, Django | Git, GitHub |
 
-1. **[Project Name](Link to Project)**: Brief description of the project.
-2. **[Project Name](Link to Project)**: Brief description of the project.
-3. **[Project Name](Link to Project)**: Brief description of the project.
+</div>
 
-## Contact Me
+---
 
-Feel free to reach out to me via:
+## 🚀 Projects
 
-- **Email**: pandureddymannuru@gmail.com
-- **LinkedIn**: www.linkedin.com/in/pandureddymannuru
-- **Twitter**: www.x.com/Pandu_Reddy1
+Here are some of the exciting projects I've built or contributed to:
 
-## GitHub Stats
+### 🛒 [ShopSmart](https://github.com/PanduReddyMannuru/ShopSmart)
+> Smart and simple shopping assistant app with PDF generation and user login system  
+> **Tech Used**: React, Tailwind, Firebase
 
-![PanduReddyMannuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanduReddyMannuru&show_icons=true&theme=radical)
+---
 
-## Support Me
+### 🔍 [Fake News Detection](https://github.com/PanduReddyMannuru/FakeNewsDetection)
+> AI/ML powered system that not only detects but helps **prevent** the spread of fake news using custom models and API integrations  
+> **Tech Used**: Python, NLP, ML APIs
 
-If you like my work, consider buying me a coffee! 
+---
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 144px !important;" ></a>
+### 📅 [Age Calculator App](https://github.com/PanduReddyMannuru/AgeCalculator)
+> A modern web tool to calculate exact age with clean UI and professional design  
+> **Tech Used**: React, Tailwind CSS
 
-Thanks for visiting my profile!
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PanduReddyMannuru&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanduReddyMannuru&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanduReddyMannuru&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:pandureddymannuru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pandureddymannuru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Pandu_Reddy1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+If you like what I do, consider supporting me here:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting! Let's learn, build, and grow together 🚀</p>
