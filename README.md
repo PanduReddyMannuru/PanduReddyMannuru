@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pandu Reddy Mannuru</h1>
-<p align="center">A passionate developer exploring the world of AI, ML & Web Development</p>
+<p align="center" style="color: #00FF00; font-family: monospace; background-color: black; padding: 10px; border-radius: 5px; display: inline-block;">
+  A passionate developer exploring the world of AI, ML & Web Development
+</p>
 
 ---
 
